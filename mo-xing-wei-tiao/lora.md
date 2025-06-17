@@ -6,4 +6,4 @@
 
 **原理:**
 
-在大模型的矩阵$W\in R^{d\times k}$ 旁插入多一个$\Delta W$ 但是由于可以低秩分解于是可以分解成$AB=\Delta W$ ,其中$A \in R^{d \times r}$ ,$B \in R^{r \times k}$ ,然后我们只要训练$A$ 和$B$ 即可最后把$AB$ 加到$W$ 中即可。
+在大模型的矩阵$$W\in R^{d\times k}$$旁插入多一个$$\Delta W$$但是由于可以低秩分解于是可以分解成$$AB=\Delta W$$ ,其中$$A \in R^{d \times r}$$ ,$$B \in R^{r \times k}$$ ,然后我们只要训练$A$ 和$B$ 即可最后把$$AB$$加到$$W$$中即可。
