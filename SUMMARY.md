@@ -8,6 +8,10 @@
 * [Linux虚拟机安装](linux-yu-fu-wu-qi-pian/linux-xu-ni-ji-an-zhuang.md)
 * [Linux终端常用的shell指令](linux-yu-fu-wu-qi-pian/linux-zhong-duan-chang-yong-de-shell-zhi-ling.md)
 
+## 计算机视觉
+
+* [3D 重建](ji-suan-ji-shi-jue/3d-chong-jian.md)
+
 ## 强化学习
 
 * [强化学习的简介和应用](qiang-hua-xue-xi/qiang-hua-xue-xi-de-jian-jie-he-ying-yong.md)
