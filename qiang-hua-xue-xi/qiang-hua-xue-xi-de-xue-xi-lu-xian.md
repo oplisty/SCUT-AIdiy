@@ -13,4 +13,4 @@
 
 ## 代码方面
 
-\[Tianshou]
+[Tianshou](https://tianshou.org/en/stable/index.html) (全部基于Pytorch编写的强化学习框架,实现了许多强化学习算法，初学的时候可以用它来手搓算法练习coding能力同时熟悉API）
