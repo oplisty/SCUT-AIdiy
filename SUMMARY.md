@@ -2,8 +2,11 @@
 
 * [SCUT cs/AI科研入门指南](README.md)
 * [目录](mu-lu.md)
-* [Page](page.md)
-* [Page 1](page-1.md)
+
+## Linux与服务器篇
+
+* [Linux虚拟机安装](linux-yu-fu-wu-qi-pian/linux-xu-ni-ji-an-zhuang.md)
+* [Linux终端常用的shell指令](linux-yu-fu-wu-qi-pian/linux-zhong-duan-chang-yong-de-shell-zhi-ling.md)
 
 ## 模型微调
 
