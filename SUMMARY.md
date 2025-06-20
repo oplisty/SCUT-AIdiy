@@ -11,6 +11,7 @@
 ## 计算机视觉
 
 * [3D 重建](ji-suan-ji-shi-jue/3d-chong-jian.md)
+* [生成式模型](ji-suan-ji-shi-jue/sheng-cheng-shi-mo-xing.md)
 
 ## 强化学习
 
