@@ -5,6 +5,7 @@
 
 ## Linux与服务器篇
 
+* [linux深度学习环境配置篇](linux-yu-fu-wu-qi-pian/linux-shen-du-xue-xi-huan-jing-pei-zhi-pian.md)
 * [Linux虚拟机安装](linux-yu-fu-wu-qi-pian/linux-xu-ni-ji-an-zhuang.md)
 * [Linux终端常用的shell指令](linux-yu-fu-wu-qi-pian/linux-zhong-duan-chang-yong-de-shell-zhi-ling.md)
 
