@@ -9,6 +9,10 @@
 * [Linux虚拟机安装](linux-yu-fu-wu-qi-pian/linux-xu-ni-ji-an-zhuang.md)
 * [Linux终端常用的shell指令](linux-yu-fu-wu-qi-pian/linux-zhong-duan-chang-yong-de-shell-zhi-ling.md)
 
+***
+
+* [服务器连接](fu-wu-qi-lian-jie.md)
+
 ## 计算机视觉
 
 * [3D 重建](ji-suan-ji-shi-jue/3d-chong-jian.md)
