@@ -43,3 +43,11 @@ ssh-copy-id -p 端口号 用户名@ip地址
 **Vscode连接**
 
 * 拓展搜 SSH Remote
+
+<figure><img src="../.gitbook/assets/image-20250709223539864.png" alt=""><figcaption></figcaption></figure>
+
+* 添加服务器(右上角加号)
+
+<figure><img src="../.gitbook/assets/image-20250709224003747 (1).png" alt=""><figcaption></figcaption></figure>
+
+* 然后输入ssh指令就会自动给你配置到setting.json中就能连接成功了
