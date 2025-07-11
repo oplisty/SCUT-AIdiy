@@ -10,6 +10,10 @@
 * [Linux虚拟机安装](linux-yu-fu-wu-qi-pian/linux-xu-ni-ji-an-zhuang.md)
 * [Linux终端常用的shell指令](linux-yu-fu-wu-qi-pian/linux-zhong-duan-chang-yong-de-shell-zhi-ling.md)
 
+***
+
+* [X11-forwarding(服务器的图形化工具)](x11forwarding-fu-wu-qi-de-tu-xing-hua-gong-ju.md)
+
 ## 计算机视觉
 
 * [3D 重建](ji-suan-ji-shi-jue/3d-chong-jian.md)
