@@ -17,6 +17,7 @@
 ## 工程相关知识
 
 * [YAML(配置文件)](gong-cheng-xiang-guan-zhi-shi/yaml-pei-zhi-wen-jian.md)
+* [HYDRA](gong-cheng-xiang-guan-zhi-shi/hydra.md)
 
 ## 计算机视觉
 
