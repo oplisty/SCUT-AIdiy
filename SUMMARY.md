@@ -14,6 +14,10 @@
 
 * [X11-forwarding(服务器的图形化工具)](x11forwarding-fu-wu-qi-de-tu-xing-hua-gong-ju.md)
 
+## 工程相关知识
+
+* [YAML(配置文件)](gong-cheng-xiang-guan-zhi-shi/yaml-pei-zhi-wen-jian.md)
+
 ## 计算机视觉
 
 * [3D 重建](ji-suan-ji-shi-jue/3d-chong-jian.md)
