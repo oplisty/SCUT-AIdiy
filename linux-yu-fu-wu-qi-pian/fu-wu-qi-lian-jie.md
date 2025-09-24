@@ -147,6 +147,9 @@ adduser username  # 你的用户名
 ```
 
 3. 将用户添加到 `sudo` 组（用户组），也就是让你的这个普通用户在需要时有权调用 `root` 这个超级管理员。
+
+`sudo` = "**SuperUser DO**"
+
 ```bash
 usermod -aG sudo username
 ```
@@ -178,3 +181,24 @@ su - username
 当你第一次在这个会话中使用 `sudo` 时，系统会提示你输入 `username` 用户自己的密码（而不是 `root` 的密码）来进行验证。
 
 如果命令成功执行，没有任何 "not in the sudoers file" 之类的错误信息,那么就算成功创建普通用户！
+
+
+
+
+
+
+
+
+
+## 可供自学的文章与教程
+
+- [韩顺平 2018 Linux 学习笔记](https://github.com/Sunxz007/Linux-note-follow-Hanshunping)
+
+- [韩顺平 2021 Linux 学习笔记](https://blog.csdn.net/zhangyifeng_1995/article/details/128485382)
+
+- [韩顺平 Linux 配套b站课程](https://www.bilibili.com/video/BV1Sv411r7vd/?vd_source=7151b4d70d06f51086869a0d62b76801)
+
+- [Liunx Tutorial 命令，运营与维护](https://github.com/dunwu/linux-tutorial)
+
+- [Linux 教程笔记](https://zq99299.github.io/linux-tutorial/)
+
